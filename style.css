@@ -1,0 +1,85 @@
+/* ===== HACKER NEON THEME ===== */
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Share Tech Mono', monospace;
+  background: #050b10;
+  color: #00ffcc;
+  line-height: 1.6;
+}
+
+/* Neon glow text */
+.neon {
+  color: #00ffcc;
+  text-shadow:
+    0 0 5px #00ffcc,
+    0 0 10px #00ffcc,
+    0 0 20px #00ffcc;
+}
+
+/* Header */
+header {
+  padding: 20px;
+  text-align: center;
+  border-bottom: 1px solid #00ffcc33;
+}
+
+/* Navigation */
+nav a {
+  color: #00ffcc;
+  margin: 0 12px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+nav a:hover {
+  color: #ffffff;
+  text-shadow: 0 0 10px #00ffcc;
+}
+
+/* Container */
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+/* Card */
+.card {
+  background: #08131a;
+  border: 1px solid #00ffcc22;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 20px #00ffcc11;
+}
+
+/* Button */
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  border: 1px solid #00ffcc;
+  color: #00ffcc;
+  text-decoration: none;
+  margin-top: 10px;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: #00ffcc;
+  color: #000;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+  opacity: 0.6;
+}
