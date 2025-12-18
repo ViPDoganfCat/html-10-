@@ -1,64 +1,84 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-Website-orange?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/HTML5-NEON-orange?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/GitHub-Pages-black?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=for-the-badge&logo=creative-commons">
+  <br/>
+  <img src="https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge&color=00ffcc">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&repo=REPO&style=for-the-badge&color=00ffcc">
 </p>
 
-<h1 align="center">🌐 HTML 10 Pages Website</h1>
+<h1 align="center">🧪 HTML 10 Pages Website</h1>
 
 <p align="center">
-  Website tĩnh gồm 10 trang HTML • Simple • Fast • iOS Friendly  
-  <br/>
-  Static website with 10 HTML pages • Simple • Fast • iOS Friendly
+  <b>Dark • Neon • Hacker Style</b><br/>
+  Static HTML Website – Fast • Clean • iOS Friendly
 </p>
 
 ---
 
-## 🇻🇳 Giới thiệu (Vietnamese)
+## 🖼 Preview
 
-Dự án này là một **website tĩnh gồm 10 trang HTML**, phù hợp cho:
-- Học HTML cơ bản
-- Website giới thiệu dịch vụ
-- Chạy trực tiếp trên Safari / Chrome
-- Deploy nhanh bằng **GitHub Pages**
+<p align="center">
+  <img src="preview.png" alt="Website Preview" width="85%">
+</p>
 
-👉 Không cần backend • Không cần framework • Nhẹ & ổn định
+> 📸 `preview.png` là ảnh chụp màn hình website (bạn tự chụp và thêm vào repo).
 
 ---
 
-## 🇺🇸 Introduction (English)
+## 🌍 Live Demo
 
-This project is a **static website with 10 HTML pages**, suitable for:
-- Learning basic HTML
-- Service / landing websites
-- Running directly on Safari / Chrome
-- Fast deployment via **GitHub Pages**
-
-👉 No backend • No framework • Lightweight & stable
+🚀 **GitHub Pages:**  
+👉 https://USERNAME.github.io/REPO/
 
 ---
 
-## 📂 Pages / Các trang
+## 🇻🇳 Giới thiệu
 
-| # | File | Mô tả (VI) | Description (EN) |
-|--|------|------------|------------------|
-| 1 | `index.html` | Trang chủ | Home page |
-| 2 | `bao-mat.html` | Chính sách bảo mật | Privacy policy |
-| 3 | `blog.html` | Blog / Bài viết | Blog |
-| 4 | `dich-vu.html` | Dịch vụ | Services |
-| 5 | `faq.html` | Câu hỏi thường gặp | FAQ |
-| 6 | `ho-tro.html` | Hỗ trợ | Support |
-| 7 | `lien-he.html` | Liên hệ | Contact |
-| 8 | `tai-xuong.html` | Tải xuống | Download |
-| 9 | `thuat-ngu.html` | Thuật ngữ | Glossary |
-|10 | `ve.html` | Giới thiệu | About |
+Đây là dự án **website tĩnh gồm 10 trang HTML**, thiết kế theo phong cách:
+- Dark / Neon / Hacker
+- Nhẹ – nhanh – không framework
+- Chạy mượt trên Safari iOS
+
+Phù hợp cho:
+- Học HTML
+- Website cá nhân / demo
+- Public repo nhưng **KHÔNG cho dùng thương mại**
 
 ---
 
-## 🚀 Usage / Cách sử dụng
+## 🇺🇸 Introduction
 
-### ▶ Open locally
-- Download repository
-- Open `index.html` in browser
+This is a **10-page static HTML website** featuring:
+- Dark / Neon / Hacker aesthetics
+- Lightweight & fast
+- Mobile-friendly (iOS / Android)
 
-### ▶ GitHub Pages
+Ideal for:
+- HTML learning
+- Personal showcase websites
+- Public repositories with **non-commercial license**
+
+---
+
+## 📂 Pages
+
+| # | File | Description |
+|--|------|------------|
+| 1 | `index.html` | Home |
+| 2 | `bao-mat.html` | Privacy Policy |
+| 3 | `blog.html` | Blog |
+| 4 | `dich-vu.html` | Services |
+| 5 | `faq.html` | FAQ |
+| 6 | `ho-tro.html` | Support |
+| 7 | `lien-he.html` | Contact |
+| 8 | `tai-xuong.html` | Download |
+| 9 | `thuat-ngu.html` | Glossary |
+|10 | `ve.html` | About |
+
+---
+
+## 🚀 Usage
+
+```bash
+git clone https://github.com/USERNAME/REPO.git
